@@ -1,0 +1,3 @@
+rootProject.name = 'M_6.3_Zadanie_test_klasy_wybierajacej_parzyste_liczby_z_kolekcji'
+include 'module'
+

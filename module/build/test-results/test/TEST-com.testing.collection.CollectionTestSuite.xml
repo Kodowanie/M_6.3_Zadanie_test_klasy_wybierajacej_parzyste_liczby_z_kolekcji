@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.testing.collection.CollectionTestSuite" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-08-21T22:00:11" hostname="DESKTOP-DKN2RU7" time="0.015">
+  <properties/>
+  <testcase name="check how program behave if List is empty" classname="com.testing.collection.CollectionTestSuite" time="0.013"/>
+  <testcase name="check if program sort for even numbersfrom the List" classname="com.testing.collection.CollectionTestSuite" time="0.001"/>
+  <system-out><![CDATA[Test Suite: begin
+Test Case: begin
+[]
+Test Case: end
+Test Case: begin
+[0, 8, 8, 7, 1]
+[0, 8, 8]
+Test Case: end
+Test Suite: end
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
